@@ -3,4 +3,4 @@
 aceleradev codenation - data science
 
 
-<img src="https://github.com/JoanesMiranda/FiltrosDeImagens/blob/master/codenation.png"/>
+<img src="https://github.com/JoanesMiranda/AceleraDev_Codenation/blob/master/codenation.png"/>
